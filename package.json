@@ -1,0 +1,14 @@
+{
+  "name": "graphql-express-test",
+  "version": "1.0.0",
+  "description": "GraphQL Express Test",
+  "main": "index.js",
+  "repository": "https://github.com/jihoon6372/graphql-express-test",
+  "author": "jihoonLee<jihoon6372@hanmail.net>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1"
+  }
+}
